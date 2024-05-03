@@ -20,14 +20,42 @@
 
 title: Miguel Singian's Portfolio and Miscellaneous Musings
 email: migsingian@gmail.com
-description:
-  Hello world!
+subtitle: "Hello world!"
+name: "Miguel Singian"
+description: "Hello, world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miguelsingian.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MiguelSingian
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      show_date: true
+      author_profile: true
+
+author:
+  name: "Miguel Singian"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Finding my way." # Note: Markdown is allowed
+  location: "Metro Manila, Philippines"
+  links:
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/miguel-lorenzo-singian/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MiguelSingian"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/miguelsingian/"
+
+      
+
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.25.0" 
+# theme: minima
 plugins:
   - jekyll-feed
 
