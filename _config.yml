@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miguelsingian.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MiguelSingian
 
-include: ["_pages","jekyll-archives"]
+include: ["_pages"]
 
 defaults:
   # _posts
@@ -65,21 +65,11 @@ author:
     #   url: "https://www.instagram.com/miguelsingian/"
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.25.0" 

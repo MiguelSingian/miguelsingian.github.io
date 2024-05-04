@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Work 👨‍💻"
-    url: "/categories/Works/"
+  - title: "Works 👨‍💻"
+    url: "/categories/works/"
   - title: "Thoughts 🤔"
-    url: "/categories/Thoughts/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: "/categories/thoughts/"
+  - title: "All Posts 📝"
+    url: /tags/
+  - title: "About Me 👋"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/ß
