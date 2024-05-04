@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Work 👨‍💻"
-    url: #test-link
+    url: "/categories/Works/"
   - title: "Thoughts 🤔"
-    url: #test-link
+    url: "/categories/Thoughts/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
