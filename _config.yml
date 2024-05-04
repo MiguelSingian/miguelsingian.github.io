@@ -27,18 +27,28 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miguelsingian.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MiguelSingian
 
+include: ["_pages"]
+
 defaults:
+  # _posts
   - scope:
       path: ""
       type: "posts"
     values:
       show_date: true
       author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
 
 author:
   name: "Miguel Singian"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Finding my way." # Note: Markdown is allowed
+  bio: "Data scientist and cookies and cream enthusiast." 
   location: "Metro Manila, Philippines"
   links:
     - label: "LinkedIn"
@@ -63,6 +73,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default.

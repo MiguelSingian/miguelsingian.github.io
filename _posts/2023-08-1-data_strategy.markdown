@@ -3,6 +3,10 @@ layout: single
 title:  "forming a solid, comprehensive, impactful, competitive, and holistic data strategy"
 date: 2023-08-01 15:35:00 +0800
 categories: strategy
+header:
+    teaser: "assets/images/data-strategy/chess.jpg"
+header:
+    image: "assets/images/data-strategy/chess.jpg"
 ---
 
 # Introduction
