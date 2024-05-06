@@ -64,6 +64,18 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/miguelsingian/"
 
+footer:
+  links:
+      - label: "LinkedIn"
+        icon: "fa-brands fa-linkedin"
+        url: "https://www.linkedin.com/in/miguel-lorenzo-singian/"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/MiguelSingian"
+      - label: "Email"
+        icon: "fa fa-envelope"
+        url: "mailto: migsingian@gmail.com"
+
 category_archive:
   type: liquid
   path: /categories/
