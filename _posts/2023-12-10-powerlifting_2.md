@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "How Competitive is my Powerlifting Total? Part 2: ML"
+title:  "How Competitive is my Powerlifting Total? Part 2: Machine Learning"
 date: 2023-12-10 15:35:00 +0800
 categories: "works"
 tags: "machine_learning time_series feature_engineering"
