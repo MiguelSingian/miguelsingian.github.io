@@ -5,9 +5,11 @@ date: 2024-05-14 22:39:00 +0800
 categories: "thoughts"
 tags: "innovation_management"
 header:
-    image: "assets/images/christoffer-engstrom-wc9avd2RaN0-unsplash.jpg"
+    overlay_image: "assets/images/christoffer-engstrom-wc9avd2RaN0-unsplash.jpg"
 ---
-Innovation isn’t hard—everyone has ideas! I’m convinced that all persons, free of external (or internal) criticism, will come up with _something_ for any problem. Written right into our souls is the desire to imitate the creator in His continuing act of creation in our own ordinary ways, including and especially through human innovation. That is how we got from carving stone tools to asking ChatGPT to write our essays.
+Innovation isn’t hard—everyone has ideas! 
+
+I’m convinced that all persons, free of external (or internal) criticism, will come up with _something_ for any problem. Written right into our souls is the desire to imitate the creator in His continuing act of creation in our own ordinary ways, including and especially through human innovation. That is how we got from carving stone tools to asking ChatGPT to write our essays.
 
 The _infinite monkey theorem_ holds that an infinite number of monkeys with an infinite number of time writers, given an infinite amount of time, would come up with the full works of Shakespeare. We are not monkeys—we have that much going for us—but we do not, in fact, possess an infinite amount of time (nor typewriters). Making the most of innovative nature must therefore include not just _how might we teach persons to think of innovative solutions_, but _how might we **manage innovation** such that the **best ideas** are developed **despite finite resources**_. This is where _innovation management_ enters. There are several established innovation management methods that organizations can employ to foster creativity, streamline processes, and maximize the impact of new ideas. Let’s explore some of these key methods and how they contribute to successful innovation.
 
