@@ -10,6 +10,8 @@ header:
 
 Powerlifting is a very objective sport. That is, an athlete can know within a very small margin of error how they will perform in a meet.
 
+This is part one of a two-part series. [Read part two here.](https://miguelsingian.github.io/works/2023/12/10/powerlifting_2.html)
+
 Knowing this, I wanted to know how I'd stack up against the competition in my first meet.
 
 I created a simple Tableau dashboard, where one can input their stats and their lift total, and see where along the curve they are versus other competitive IPF lifters around the world.

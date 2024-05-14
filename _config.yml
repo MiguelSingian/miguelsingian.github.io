@@ -94,6 +94,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-relative-links
+  - jekyll-jupyter-notebook
 
 # Exclude from processing.
 # The following items will not be processed, by default.
