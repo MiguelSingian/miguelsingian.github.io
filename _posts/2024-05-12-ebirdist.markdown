@@ -1,0 +1,15 @@
+---
+layout: single
+title:  "Why Do Birds Suddenly Appear?: Analyzing Global Duck Migration Trends with eBird Data"
+date: 2024-05-12 22:39:00 +0800
+categories: "works"
+tags: "big_data geospatial pyspark"
+header:
+    overlay_image: "assets/images/Mallard-Migration-Delta-Waterfowl.webp"
+---
+
+Using PySpark to query 1.4Tb of bird sightings data (28Gb of ducks) from [eBird](https://ebird.org/home), we created dynamic responsive visualizations of duck sightings in the Americas, showing migration patterns over time.
+
+{% include youtubePlayer.html id="1Pyk-3jwqTE" %}
+
+The full notebook and report can be found [here](https://github.com/MiguelSingian/school-projects/blob/main/ebird.ipynb).
