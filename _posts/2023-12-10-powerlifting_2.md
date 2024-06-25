@@ -8,7 +8,7 @@ header:
     image: "assets/images/powerlifting/Screenshot1.png"
 ---
 
-Time Series | XGBoost | Machine Learning | Feature Engineering
+Time Series \| XGBoost \| Machine Learning \| Feature Engineering
 
 Being an insecure athlete, I was not satisfied with merely knowing how my current total would stack up in competition--I wanted to know potentially what my *future* powerlifting total would be. 
 

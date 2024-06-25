@@ -8,7 +8,7 @@ header:
     overlay_image: "assets/images/Screenshot 2024-05-27 at 8.24.07 PM.png"
 ---
 
-Shapley | DICE | Explainable AI | Classifier | EGBoost
+Shapley \| DICE \| Explainable AI \| Classifier \| EGBoost
 
 Predicting Student Employability and Personalizing Advice Through Machine Learning Using Mock Interview Results
 

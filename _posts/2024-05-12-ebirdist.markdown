@@ -8,7 +8,7 @@ header:
     overlay_image: "assets/images/Mallard-Migration-Delta-Waterfowl.webp"
 ---
 
-PySpark | Big Data | Geospatial
+PySpark \| Big Data \| Geospatial
 
 Using PySpark to query 1.4Tb of bird sightings data (28Gb of ducks) from [eBird](https://ebird.org/home), we created dynamic responsive visualizations of duck sightings in the Americas, showing migration patterns over time.
 
