@@ -8,6 +8,8 @@ header:
     overlay_image: "assets/images/gutenberg-printing-press.webp"
 ---
 
+PySpark | AWS | NLP | Big Data | SparkML
+
 [Project Gutenberg](https://gutenberg.org/) is the oldest and largest digital repository of public domain literature on the internet. Browsing the website is rather difficult, as there is only a search bar and a list of volunteer-generated "bookshelf" collections, from `Science Fiction` to `Psychology`. These bookshelves would be great for searching if they were not mostly incomplete--only 20% of books are in any bookshelf at all.
 
 Thus, we used the following methodology to "complete" the bookshelves, using semi-supervised machine learning:

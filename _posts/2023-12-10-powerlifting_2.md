@@ -8,6 +8,8 @@ header:
     image: "assets/images/powerlifting/Screenshot1.png"
 ---
 
+Time Series | XGBoost | Machine Learning | Feature Engineering
+
 Being an insecure athlete, I was not satisfied with merely knowing how my current total would stack up in competition--I wanted to know potentially what my *future* powerlifting total would be. 
 
 To do this, rather than train my own body, I trained a machine learning model to take a athlete's measurements, current squat, bench press, and deadlift numbers, and target competition date, and return the predicted numbers for that competition (given consistent training at the level of an average IPF athlete).

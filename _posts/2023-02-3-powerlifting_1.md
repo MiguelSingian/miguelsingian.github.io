@@ -8,6 +8,8 @@ header:
     overlay_image: "assets/images/powerlifting/dashboard_screenshot.png"
 ---
 
+Tableau | Dashboarding
+
 Powerlifting is a very objective sport. That is, an athlete can know within a very small margin of error how they will perform in a meet.
 
 This is part one of a two-part series. [Read part two here.](https://miguelsingian.github.io/works/2023/12/10/powerlifting_2.html)

@@ -7,6 +7,9 @@ tags: "innovation_management"
 header:
     overlay_image: "assets/images/christoffer-engstrom-wc9avd2RaN0-unsplash.jpg"
 ---
+
+Innovation Management
+
 Innovation isn’t hard—everyone has ideas! 
 
 I’m convinced that all persons, free of external (or internal) criticism, will come up with _something_ for any problem. Written right into our souls is the desire to imitate the creator in His continuing act of creation in our own ordinary ways, including and especially through human innovation. That is how we got from carving stone tools to asking ChatGPT to write our essays.

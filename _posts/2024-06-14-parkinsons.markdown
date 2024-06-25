@@ -8,6 +8,8 @@ header:
     overlay_image: "assets/images/what-is-a-sound-a-general-reminder-on-sound-waves-919226.webp"
 ---
 
+Neural Networks | Transformers | Image Processing | Audio | Classifier | Machine Learning
+
 Converting audio files into spectrogram representations and running them through a Vision Transformer Neural Network, we classified the voices of those with and without Parkinsons' disease at a 93% validation and 76% test ROC-AUC.
 
 ![Spectrogram Images](/assets/images/Screenshot 2024-06-20 at 5.09.57 PM.png)
