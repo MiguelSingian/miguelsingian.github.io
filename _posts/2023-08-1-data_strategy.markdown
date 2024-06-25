@@ -9,6 +9,9 @@ header:
 header:
     image: "assets/images/data-strategy/chess.jpg"
 ---
+Data Strategy
+
+
 "Data Scientist is the sexiest job of the 21st century” is old news, “data is the new oil” is repeated ad nauseam, everyone’s collecting data and trying to use it nowadays, yet most companies do not have a data strategy.
 
 Needless to say, that is a problem. Data strategy is the way in which a company organizes and leverages its data and information systems to create value — without this, maintaining said data is an expensive liability. Putting data scientists in place to blindly “do data science” makes it even more expensive. Organizations of all sizes and industries in 2023 need data strategy, and need it fast.
