@@ -10,4 +10,4 @@ header:
 excerpt: "Data Science, etc."
 ---
 
-This portfolio highlights foundational projects from my academic and early professional work. For a comprehensive overview of my recent experience leading enterprise-level data science initiatives at a market-leading corporation, please refer to my resume.
+This portfolio highlights foundational projects from my academic and early professional work.
